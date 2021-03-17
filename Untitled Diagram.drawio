@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T09:52:05.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="ssU7Dj-XlZbPFkngw9c8" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T09:53:50.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="tWQJWeZKW3Mhr0I6YXM1" version="14.4.8" type="github">
   <diagram id="YESWJ_fVVs4A_5K_BiSB" name="Page-1">
-    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#CCCCCC" math="0" shadow="1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#CCCCCC" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -781,8 +781,17 @@
         <mxCell id="47OByKtoj6zuyFMPDQzj-85" value="推广账户维护" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1184" y="471.5" width="110" height="35.5" as="geometry" />
         </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="47OByKtoj6zuyFMPDQzj-90" target="47OByKtoj6zuyFMPDQzj-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="47OByKtoj6zuyFMPDQzj-90" value="账户消费维护" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1330" y="472.25" width="110" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-92" value="百度推广" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-94" value="获取账户消费" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="320" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
