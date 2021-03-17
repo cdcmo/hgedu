@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T08:29:37.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="Iih7_ZupAOfkaX537eu7" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T08:49:04.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="Lgn50vnTwcD3WKLoQkso" version="14.4.8" type="github">
   <diagram id="YESWJ_fVVs4A_5K_BiSB" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCCCCC" math="0" shadow="1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#CCCCCC" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,6 +121,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="19.799999999999955" y="1363" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="600" y="390" />
               <mxPoint x="600" y="400" />
               <mxPoint x="10" y="400" />
               <mxPoint x="20" y="880" />
@@ -642,6 +643,36 @@
             <mxPoint x="100" y="1194.5" as="sourcePoint" />
             <mxPoint x="80" y="1195" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="47OByKtoj6zuyFMPDQzj-49" target="RMrvw5dMMkh8_IedU6CL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-49" value="系统通知" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="867.5" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="47OByKtoj6zuyFMPDQzj-51" target="47OByKtoj6zuyFMPDQzj-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="47OByKtoj6zuyFMPDQzj-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="420" as="targetPoint" />
+            <mxPoint x="600" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="47OByKtoj6zuyFMPDQzj-51" target="47OByKtoj6zuyFMPDQzj-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-51" value="系统管理员" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-54" value="编写通知内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="867.5" y="350" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-57" value="&lt;font color=&quot;#000000&quot;&gt;职员信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="838" y="488" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="47OByKtoj6zuyFMPDQzj-59" value="维护职员信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="865" y="440" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
